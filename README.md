@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi! 👋
 -🌱 I’m currently learning in BUAA
 
 -😺 bilibili："https://space.bilibili.com/404125790#/"
