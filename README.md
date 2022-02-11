@@ -5,7 +5,7 @@
 
 - 😺 知乎：[点击访问我的知乎](https://www.zhihu.com/people/chen-peng-fei-43-94)
 
-- 🌱  [My LeetCode](https://www.buaa.edu.cn/)
+- 🌱  [My LeetCode](https://leetcode-cn.com/u/peaceful-parehcq/)
 
 - 📫 How to reach me：chenpengfei218@163.com
 
