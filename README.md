@@ -4,7 +4,7 @@
 - 😺 bilibili：[点击访问我的哔哩哔哩](https://space.bilibili.com/404125790#/)
 
 - 😺 知乎：[点击访问我的知乎](https://www.zhihu.com/people/chen-peng-fei-43-94)
-- 
+
 - 📫 How to reach me：chenpengfei218@163.com
 
 - ⚡ Fun fact: 机器学习、优化算法
